@@ -102,17 +102,18 @@ Volatility: 15.9% vs 17.7%
 
 Sharpe Ratio: 0.87 vs 0.63
 
-## 📉 Visualizations
+## 📉 Visual Results
 
-SPY Price + Fed Rate Regimes: Highlighting Low/Medium/High rate environments.
+### 📈 Equity Curve: Buy & Hold vs. FOMC Strategy
+![Equity Curve](images/equity_curve.png)
 
-Average Returns Around FOMC Announcements: Event windows by hike/cut/no-change.
+### 📊 Average Returns Around FOMC Announcements
+*(Placeholder — save your plot as `images/fomc_event_returns.png` when ready)*  
+![FOMC Event Returns](images/fomc_event_returns.png)
 
-Equity Curve: Buy & Hold vs. FOMC Strategy.
-
-Volatility vs Fed Funds: Scatter plot with regression line.
-
-(See images/ folder for plots.)
+### 📉 Volatility vs. Fed Funds
+*(Placeholder — save your plot as `images/vol_vs_rate.png` when ready)*  
+![Volatility vs Fed Funds](images/vol_vs_rate.png)
 
 ## 🚀 Future Work
 
